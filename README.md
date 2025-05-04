@@ -1,6 +1,6 @@
 # Gold Medal Metrics Challenge Project
 
-This is my implemntation of the backend API using Java Spring Boot. Below is the project overview: 
+This is my implementation of the backend API using Java Spring Boot. Below is the project overview: 
 
 ### Overview
 In this project, you will use Spring Data JPA to power an Olympics analytics web app.
